@@ -1,0 +1,12 @@
+starship.rs
+alacritty terminal
+neofetch (cmd)
+btop (cmd)
+rust with rustup
+nvim
+git
+gimp
+inkscape
+helix
+lapce
+tmux
